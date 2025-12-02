@@ -32,6 +32,11 @@
 *   **Summary:** マクロ経済学とミクロ経済学の断絶を埋める「メソ経済学」の樹立。地域経済における「ストロー現象（漏れ）」のメカニズムと、その解決策を提示する。
 *   **Key Concepts:** $R_{block}$ (Retention Rate), $M_{sbcm}$ (Fiscal Multiplier)
 
+### 3. The Dynamics (動的理論・行政熱力学)
+**[SBCM Economics Part 2: Dynamic Meso-Economics and the Thermodynamics of Governance](https://doi.org/10.5281/zenodo.17777745)**
+*   **DOI:** 10.5281/zenodo.17777745
+*   **Summary:** SBCMを静的な代数から動的な「微積分」へと拡張。人口減少社会におけるインフラ維持（借金財政）が数学的に「ポンジ・スキーム」であることを証明し、行政における熱力学（痛みの保存則）を定義する。
+*   **Key Concepts:** $\mathcal{D}_{total}$ (Cumulative Distortion), Conservation of Pain, Algorithmic Public Interestism
 ---
 ## 📝 Illustrated notes (メモ)
 
