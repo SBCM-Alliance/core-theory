@@ -33,6 +33,10 @@
 *   **Key Concepts:** $R_{block}$ (Retention Rate), $M_{sbcm}$ (Fiscal Multiplier)
 
 ---
+## 📝 Illustrated notes (メモ)
+
+![](memo_20251202113957.png)
+
 
 ## 📐 The Three Axioms (3つの公理)
 
