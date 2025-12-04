@@ -39,7 +39,7 @@
 *   **Key Concepts:** $\mathcal{D}_{total}$ (Cumulative Distortion), Conservation of Pain, Algorithmic Public Interestism
 ---
 ## 📝 Illustrated notes (メモ)
-
+![](time_for_an_update.png)
 ![](memo_20251202113957.png)
 
 
