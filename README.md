@@ -37,6 +37,13 @@
 *   **DOI:** 10.5281/zenodo.17777745
 *   **Summary:** SBCMを静的な代数から動的な「微積分」へと拡張。人口減少社会におけるインフラ維持（借金財政）が数学的に「ポンジ・スキーム」であることを証明し、行政における熱力学（痛みの保存則）を定義する。
 *   **Key Concepts:** $\mathcal{D}_{total}$ (Cumulative Distortion), Conservation of Pain, Algorithmic Public Interestism
+
+### 4. The Field Theory (場の方程式・行政水理学)
+**[SBCM Field Theory: The General Equations of Regional Flux and the Control of Divergence](https://doi.org/10.5281/zenodo.17890326)**
+*   **DOI:** 10.5281/zenodo.17890326
+*   **Summary:** 地域経済を離散的なブロックから、連続的な「流体場」へと拡張するSBCMの一般理論（行政水理学）。富の流出（ストロー効果）をベクトル場の「正の発散 ($\nabla \cdot \mathbf{J} > 0$)」として定義し、その制御（G-Cartによるメッシュ細分化）が地域の生存条件であることを数学的に証明する。
+*   **Key Concepts:** Continuity Equation (連続の式), $\nabla \cdot \mathbf{J}$ (Divergence), Mesh Refinement
+
 ---
 ## 📝 Illustrated notes (メモ)
 ![](time_for_an_update.png)
