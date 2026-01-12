@@ -21,7 +21,7 @@ v1.0では「メソ経済学」として行政の歪みを指摘しましたが�
 
 私たちは、政治的な「言葉（Rhetoric）」が支配していた統治の世界を、普遍的な「数理（Math）」によって再構築します。
 
-## 📜 The Scriptures (聖典・理論体系)
+## 📜 The Scriptures (理論体系)
 
 ### 1. The Methodology (静的理論)
 **[Proposal for the Standard Block Comparison Method](https://github.com/SBCM-Alliance/core-theory/blob/main/papers/Proposal%20for%20the%20Standard%20Block%20Comparison%20Method%20(SBCM)%20in%20the%20Quantitative%20Evaluation%20of%20Administrative%20Measures_v2.1_.pdf)**
