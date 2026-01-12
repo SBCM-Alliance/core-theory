@@ -3,7 +3,8 @@
 
 [![Zenodo Part1](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17762960-blue)](https://doi.org/10.5281/zenodo.17762960)
 [![Zenodo Part2](https://img.shields.io/badge/DOI_Part2-10.5281%2Fzenodo.17766604-blue)](https://doi.org/10.5281/zenodo.17766604)
-[![Zenodo Field Theory](https://img.shields.io/badge/DOI_Field_Theory-10.5281%2Fzenodo.17890326-blue)](https://doi.org/10.5281/zenodo.17890326)
+[![Zenodo Part3](https://img.shields.io/badge/DOI_Part3-10.5281%2Fzenodo.17777745-blue)](https://doi.org/10.5281/zenodo.17777745)
+[![Zenodo Part4](https://img.shields.io/badge/DOI_Part4-10.5281%2Fzenodo.17890326-blue)](https://doi.org/10.5281/zenodo.17890326)
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
