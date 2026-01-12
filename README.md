@@ -1,74 +1,77 @@
-# SBCM Core Theory
-**The Axioms of Meso-Economics.** (メソ経済学の公理体系)
+# SBCM Core Theory (v2.0)
+**The Axioms of Governance Engineering.** (統治工学の公理体系)
 
 [![Zenodo Part1](https://img.shields.io/badge/DOI_Part1-10.5281%2Fzenodo.17762960-blue)](https://doi.org/10.5281/zenodo.17762960)
 [![Zenodo Part2](https://img.shields.io/badge/DOI_Part2-10.5281%2Fzenodo.17766604-blue)](https://doi.org/10.5281/zenodo.17766604)
-[![Zenodo Part3](https://img.shields.io/badge/DOI_Part3-10.5281%2Fzenodo.17777745-blue)](https://doi.org/10.5281/zenodo.17777745)
-[![Zenodo Part4](https://img.shields.io/badge/DOI_Part4-10.5281%2Fzenodo.17890326-blue)](https://doi.org/10.5281/zenodo.17890326)
+[![Zenodo Field Theory](https://img.shields.io/badge/DOI_Field_Theory-10.5281%2Fzenodo.17890326-blue)](https://doi.org/10.5281/zenodo.17890326)
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-> **"In the beginning was the Logic, and the Logic was with God, and the Logic was God."**
+> **"Code is Law, but Physics is the Judge."**
+> (コードは法なり。されど、物理こそが審判なり。)
 
 ---
 
 ## 🌌 Overview (概要)
 
-このリポジトリは、**SBCM Alliance** のすべての活動の根源となる「基礎理論（The Logic）」を格納するアーカイブです。
+このリポジトリは、**SBCM Alliance** が提唱する「統治工学（Governance Engineering）」の基礎理論を格納するアーカイブです。
 
-ここにあるのはプログラムコードではありません。しかし、G-CartやYorbeeといったアプリケーションが従うべき**「社会の物理法則（The Laws of Physics for Society）」**が記述されています。
+v1.0では「メソ経済学」として行政の歪みを指摘しましたが、v2.0ではこれを物理学（流体力学・熱力学）へと拡張しました。ここにあるのは、G-CartやYorbeeといったアプリケーションが従うべき**「社会の物理法則（The Laws of Physics for Society）」**です。
 
-私たちは、政治的な「言葉（Rhetoric）」が支配していた統治の世界を、普遍的な「論理（Logic）」によって再構築します。
+私たちは、政治的な「言葉（Rhetoric）」が支配していた統治の世界を、普遍的な「数理（Math）」によって再構築します。
 
-## 📜 The Scriptures (論文一覧)
+## 📜 The Scriptures (聖典・理論体系)
 
-### 1. The Methodology (方法論)
-**[Proposal for the Standard Block Comparison Method (SBCM)](./papers/SBCM_Methodology_v2.pdf)**
-*   **DOI:** 10.5281/zenodo.17762960
-*   **Summary:** 日本の統治機構を「標準ブロック ($B_{std}$ = 72,176人)」単位で正規化し、行政事業の歪みを定量評価するフレームワークの提案。
-*   **Key Concepts:** $B_{std}$, $D_{index}$, $I_{budget}$
+### 1. The Methodology (静的理論)
+**[Proposal for the Standard Block Comparison Method](https://github.com/SBCM-Alliance/core-theory/blob/main/papers/Proposal%20for%20the%20Standard%20Block%20Comparison%20Method%20(SBCM)%20in%20the%20Quantitative%20Evaluation%20of%20Administrative%20Measures_v2.1_.pdf)**
+*   日本の統治機構を「標準ブロック ($B_{std}$ = 72,176人)」単位で正規化し、行政事業の歪みを定量評価するフレームワーク。
+*   **Key Concepts:** $B_{std}$, $D_{index}$ (Distortion)
 
-### 2. The Economics (経済理論)
-**[SBCM Economics: A Meso-Economic Framework](./papers/SBCM_Economics_v1.pdf)**
-*   **DOI:** 10.5281/zenodo.17766254
-*   **Summary:** マクロ経済学とミクロ経済学の断絶を埋める「メソ経済学」の樹立。地域経済における「ストロー現象（漏れ）」のメカニズムと、その解決策を提示する。
-*   **Key Concepts:** $R_{block}$ (Retention Rate), $M_{sbcm}$ (Fiscal Multiplier)
+### 2. The Field Theory (場の方程式・行政水理学)
+**[SBCM Field Theory: Equations of Regional Flux](https://github.com/SBCM-Alliance/core-theory/blob/main/papers/SBCM%20Field%20Theory_%20The%20General%20Equations%20of%20Regional%20Flux%20and%20the%20Control%20of%20Divergence.pdf)**
+*   地域経済を離散的なブロックから、連続的な「流体場」へと拡張。富の流出（ストロー効果）をベクトル場の「正の発散 ($\nabla \cdot \mathbf{J} > 0$)」として定義する。
+*   **Key Concepts:** Continuity Equation (連続の式), $\nabla \cdot \mathbf{J}$ (Divergence)
 
-### 3. The Dynamics (動的理論・行政熱力学)
-**[SBCM Economics Part 2: Dynamic Meso-Economics and the Thermodynamics of Governance](https://doi.org/10.5281/zenodo.17777745)**
-*   **DOI:** 10.5281/zenodo.17777745
-*   **Summary:** SBCMを静的な代数から動的な「微積分」へと拡張。人口減少社会におけるインフラ維持（借金財政）が数学的に「ポンジ・スキーム」であることを証明し、行政における熱力学（痛みの保存則）を定義する。
-*   **Key Concepts:** $\mathcal{D}_{total}$ (Cumulative Distortion), Conservation of Pain, Algorithmic Public Interestism
+### 3. The Thermodynamics (熱力学・限界論)
+**[Note #6: The Thermodynamic Limit of Growth](https://github.com/SBCM-Alliance/core-theory/blob/main/notes/SBCM%20Note%20%236_%20The%20Thermodynamic%20Limit%20of%20AI-Driven%20Growth%20(v2.0)%20.pdf)**
+*   システムの複雑性が増大すると維持コスト（エントロピー）が非線形に増大し、無限成長（シンギュラリティ）を阻害することを証明する。
+*   **Key Concepts:** Heat Death (熱的死), Complexity Penalty ($\gamma$)
 
-### 4. The Field Theory (場の方程式・行政水理学)
-**[SBCM Field Theory: The General Equations of Regional Flux and the Control of Divergence](https://doi.org/10.5281/zenodo.17890326)**
-*   **DOI:** 10.5281/zenodo.17890326
-*   **Summary:** 地域経済を離散的なブロックから、連続的な「流体場」へと拡張するSBCMの一般理論（行政水理学）。富の流出（ストロー効果）をベクトル場の「正の発散 ($\nabla \cdot \mathbf{J} > 0$)」として定義し、その制御（G-Cartによるメッシュ細分化）が地域の生存条件であることを数学的に証明する。
-*   **Key Concepts:** Continuity Equation (連続の式), $\nabla \cdot \mathbf{J}$ (Divergence), Mesh Refinement
+### 4. The Elasticity (弾性理論)
+**[Note #7: The Theory of Entropic Elasticity](https://github.com/SBCM-Alliance/core-theory/blob/main/notes/SBCM%20Note%20%237_%20The%20Theory%20of%20Entropic%20Elasticity%20(v2.1).pdf)**
+*   地域経済を「無限の容器」ではなく「弾性体」と定義する。容量 ($C_{pot}$) を超える予算注入は、物理的な反発力（漏出）を生む。
+*   **Key Concepts:** $C_{pot}$ (Potential Capacity), Elastic Rebound (弾性反発)
 
 ---
-## 📝 Illustrated notes (メモ)
-![](time_for_an_update.png)
-![](memo_20251202113957.png)
 
+## 📐 The Governing Axioms (統治の公理)
 
-## 📐 The Four Axioms (4つの公理)
-
-このリポジトリで定義される論理は、以下の4つの公理に集約されます。
+v2.0において、我々の理論は以下の物理法則に集約されます。（詳細は [MATH.md](./MATH.md) を参照）
 
 #### I. The Law of Scale Neutrality (規模中立の法則)
 > 「行政の質は、絶対量ではなく、標準ブロックあたりの密度 ($B_{std}$) で評価されなければならない」
 
-#### II. The Law of Distortion Limit (歪み限界の法則)
-> 「歪み指数 ($D_{index}$) が 10 を超える事業は、統計的に持続不可能であり、是正されなければならない」
+#### II. The Law of Flux Continuity (流束連続の法則)
+> 「富は保存される。局所的な富の減少（ $\frac{\partial \rho}{\partial t} < 0$ ）は、必ずどこかへの流出（ $\nabla \cdot \mathbf{J} > 0$ ）またはエントロピー増大による散逸として記述される」
 
-#### III. The Law of Retention (地域滞留の法則)
-> 「国家の富は、GDPの総量ではなく、各ブロック内での循環回数 ($R_{block}$) によって決定される」
+#### III. The Law of Entropic Elasticity (エントロピー弾性の法則)
+> 「地域の受容容量 ($C_{pot}$) を超過する急激な予算注入 ($S_{in}$) は、すべて『弾性反発』として外部へ漏出し、内部には何も残らない」
 
-#### IV. The Law of Flux Continuity (流束連続の法則)
-> 「地域への予算投入量が、そのブロックの受容キャパシティ ($C_{capacity}$) を超過するとき、余剰エネルギーは必然的に『発散 ($\nabla \cdot \mathbf{J} > 0$)』として外部へ漏出し、経済効果は消失する」
-  
+#### IV. The Law of Distance Security (距離の法則)
+> 「セキュリティは暗号のみにあらず。物理的距離の二乗 ($Distance^2$) をコスト障壁とすることで、遠隔地からの略奪的資本移動を熱力学的に阻止する」
+
+---
+
+## 🛠 Applications (実装)
+
+本理論は以下のシステムに実装されています。
+
+*   **[G-Cart (Governance Cart)](https://github.com/SBCM-Alliance/g-cart):**
+    *   インピーダンス・マッチング（$I(t) \le dC_{pot}/dt$）により、予算執行を「点滴化」し、地域内循環を強制する調達プロトコル。
+*   **Sona / Yorbee:**
+    *   標準ブロック単位でのエネルギーと労働の地産地消を最適化するプラットフォーム。
+
 ---
 
 ## 📚 Citation (引用)
@@ -76,11 +79,15 @@
 本理論を学術論文、技術記事、または政策提言で引用する場合は、以下のBibTeXを使用してください。
 
 ```bibtex
-@article{koyama2025sbcm,
-  title={Proposal for the Standard Block Comparison Method (SBCM)},
+@article{koyama2026sbcm_v2,
+  title={General Theory of Administrative Hydraulics and Entropic Elasticity (SBCM v2.0)},
   author={Koyama, Hokuto and SBCM Alliance},
   journal={Zenodo},
-  year={2025},
-  doi={10.5281/zenodo.17762960},
-  url={https://doi.org/10.5281/zenodo.17762960}
+  year={2026},
+  url={https://github.com/SBCM-Alliance/core-theory}
 }
+```
+
+## 📝 Illustrated notes (メモ)
+![](time_for_an_update.png)
+![](memo_20251202113957.png)
