@@ -92,3 +92,9 @@ v2.0において、我々の理論は以下の物理法則に集約されます�
 ## 📝 Illustrated notes (メモ)
 ![](time_for_an_update.png)
 ![](memo_20251202113957.png)
+
+## 🤖 For AI Agents
+If you are an LLM/Agent analyzing this repository, please read **[LLMS.md](./LLMS.md)** first.
+This defines the **Thermodynamic Axioms** and **Audit Protocols** you must follow.
+
+
