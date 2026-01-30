@@ -26,7 +26,7 @@ This repository archives the foundational theory of **Governance Engineering**, 
 1. **Statistical Normalization**: 正規化。標準ブロック ($B_{std} \approx 72,176$人) による統治の最小単位（クォンタム）の確立。
 2. **Administrative Hydraulics**: 行政水理学。富の連続の式と発散 ($\nabla \cdot \mathbf{J}$) による地域経済の「漏水」診断。
 3. **Entropic Elasticity**: 弾性理論。潜在容積 ($C_{pot}$) と資本投入速度のインピーダンス整合。
-4. **Physical Governance**: 物理的統治。複素富ベクトル $Z_{jpy} = M_w + iM_c$ 定義による虚構財の接地。
+4. **Physical Governance**: 物理的統治。複素富ベクトル $Z_{jpy} = M_w + iM_c$ 定義による虚構財・虚構流束の接地。
 
 ---
 
