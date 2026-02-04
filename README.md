@@ -23,10 +23,8 @@ This repository archives the foundational theory of **Governance Engineering**, 
 本リポジトリは「統治工学（Governance Engineering）」の公式アーカイブです。情報処理や統治には物理的コストがかからないとする「真空の誤謬」を排し、熱力学と流体力学の公理から、持続可能な地域資源循環を再定義します。
 
 ### 📐 The Governing Axioms (SBCM v2.0)
-1. **Statistical Normalization**: 正規化。標準ブロック ($B_{std} \approx 72,176$人) による統治の最小単位（クォンタム）の確立。
-2. **Administrative Hydraulics**: 行政水理学。富の連続の式と発散 ($\nabla \cdot \mathbf{J}$) による地域経済の「漏水」診断。
-3. **Entropic Elasticity**: 弾性理論。潜在容積 ($C_{pot}$) と資本投入速度のインピーダンス整合。
-4. **Physical Governance**: 物理的統治。複素富ベクトル $Z_{jpy} = M_w + iM_c$ 定義による虚構財・虚構流束の接地。
+
+   ![](https://github.com/SBCM-Alliance/core-theory/blob/main/Axiom.png)
 
 ---
 
@@ -35,32 +33,6 @@ This repository archives the foundational theory of **Governance Engineering**, 
 ### **[The General Theory of Governance Engineering (v2.0)](./papers/The_General_Theory_of_Governance_Engineering_SBCM_v2.0.pdf)**
 *   **Abstract:** Applying Landauer’s Principle to governance. We provide empirical proof that the centralized "Tokyo System" has reached its "Heat Death" and propose the G-Cart protocol as a sustainable alternative.
 *   **日本語要旨:** ランドアワーの原理を統治に適用。中央集権システム（東京）が「熱死」に至ったことを実証し、G-Cartプロトコルによる資源循環の再構築を提案する。
-  
----
-  
-## 🖼️ Theoretical Evidence & Visuals (論理的根拠)
-
-### 1. Entropic Elasticity: The Physics of Failure
-When the budget injection rate exceeds the structural adaptation speed, the system triggers **Elastic Rebound (Total Ejection)**.  
-（予算投入速度が構造変化速度を超過した時、富は地域に定着せず「弾性排出」される）
-
-$$C_{pot} = \alpha \cdot P_{density} \cdot M_{mesh}$$
-$$\mathbf{F}_{eject} = -k(S_{current} - C_{pot})$$
-$$\frac{dS_{in}}{dt} \gg \frac{dC_{pot}}{dt} \Longrightarrow \text{Elastic Rebound (Total Ejection)}$$
-
-### 2. Thermodynamic Analysis: The 70k-City Matrix
-Municipalities are polarized into **"Heat Death" (Q4)** or **"Colonies" (Q2)**. The "Ideal State" (Autonomy) remains a **Null Set ($\emptyset$)**.  
-（自治体は「熱死」か「植民地」に二極分化しており、「自律」は統計的に空集合である）
-
-![](https://github.com/SBCM-Alliance/Case-Studies/blob/main/002_StandardBlockMunicipalities/Evidence/note8_Evidence.png)
-
-### 3. G-Cart Protocol: Grounding Floating Fiction
-Converting Speculation (Heat) into Work.  
-（投機＝ジュール熱を、物理的な仕事へと変換する回路設計）
-
-$$Q_{spec} = \int I(t)^2 R_{exit}(t) dt$$
-$$\text{Work Standard: } 1 \text{ Token} \equiv 1 \text{ Joule of Physical Work}$$
-$$\text{Gravity Firewall: } Cost_{total} = P_{bid} + \alpha \cdot (Distance)^2$$
 
 ---
 
