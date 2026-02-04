@@ -31,6 +31,7 @@ This repository archives the foundational theory of **Governance Engineering**, 
 ## 📜 The Main Paper (統合版・基幹論文)
 
 ### **[The General Theory of Governance Engineering (v2.0)](https://github.com/SBCM-Alliance/core-theory/blob/main/General_Theory/01_General_Theory_of_Governance_Engineering_SBCM_v2.0.pdf)**
+*   **DOI:** [10.5281/zenodo.18427082](https://doi.org/10.5281/zenodo.18427082) 
 *   **Abstract:** Applying Landauer’s Principle to governance. We provide empirical proof that the centralized "Tokyo System" has reached its "Heat Death" and propose the G-Cart protocol as a sustainable alternative.
 *   **日本語要旨:** ランドアワーの原理を統治に適用。中央集権システム（東京）が「熱死」に至ったことを実証し、G-Cartプロトコルによる資源循環の再構築を提案する。
 
